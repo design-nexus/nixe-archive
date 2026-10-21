@@ -13,8 +13,8 @@ path = "src/main.rs"
 
 [dependencies]
 nixe-core = { git = "file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-core", rev = "e4595e68a4fd9b44bd15e95311ace1d0fb669bc4" }
-nixe-ui = { git = "file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-design", rev = "70ff73fb949e028790cdd63cd90920475043d845" }
-nixe-theme = { git = "file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-design", rev = "70ff73fb949e028790cdd63cd90920475043d845" }
+nixe-ui = { git = "file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-design", rev = "6997fb93fe248e20a19277dbd3ef219cdba18683" }
+nixe-theme = { git = "file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-design", rev = "6997fb93fe248e20a19277dbd3ef219cdba18683" }
 anyhow = "1.0.104"
 async-channel = "2"
 gtk = { version = "0.11", package = "gtk4", features = ["v4_18"] }

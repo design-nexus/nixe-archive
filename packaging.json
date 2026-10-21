@@ -1,0 +1,10 @@
+{
+  "application": "archive",
+  "directory": "archive",
+  "packages": [
+    "nixe-archive"
+  ],
+  "manifest": "Cargo.toml",
+  "prepare": [],
+  "binaries": []
+}

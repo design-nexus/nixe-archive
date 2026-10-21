@@ -502,7 +502,7 @@ dependencies = [
 [[package]]
 name = "nixe-theme"
 version = "0.1.0"
-source = "git+file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-design?rev=70ff73fb949e028790cdd63cd90920475043d845#70ff73fb949e028790cdd63cd90920475043d845"
+source = "git+file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-design?rev=6997fb93fe248e20a19277dbd3ef219cdba18683#6997fb93fe248e20a19277dbd3ef219cdba18683"
 dependencies = [
  "gtk4",
  "nixe-core",
@@ -513,7 +513,7 @@ dependencies = [
 [[package]]
 name = "nixe-ui"
 version = "0.1.0"
-source = "git+file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-design?rev=70ff73fb949e028790cdd63cd90920475043d845#70ff73fb949e028790cdd63cd90920475043d845"
+source = "git+file:///home/ken/Projects/nixe-migration-97c1899-reviewed/nixe-design?rev=6997fb93fe248e20a19277dbd3ef219cdba18683#6997fb93fe248e20a19277dbd3ef219cdba18683"
 dependencies = [
  "gtk4",
  "nixe-core",
