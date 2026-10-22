@@ -35,14 +35,14 @@ see them in the process list while a job runs.
 ## Install
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/design-nexus/nixe/main/install.sh | bash -s -- archive
+curl -fsSL https://raw.githubusercontent.com/design-nexus/nixe-archive/main/install.sh | bash -s -- archive
 ```
 
 This installs GTK 4 and 7-Zip if they're missing, builds with Cargo, and installs to
 `~/.local`. Add `--default` to also make it the app that opens archive files:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/design-nexus/nixe/main/install.sh | bash -s -- archive --default
+curl -fsSL https://raw.githubusercontent.com/design-nexus/nixe-archive/main/install.sh | bash -s -- archive --default
 ```
 
 Remove it with `nixe uninstall archive` (add `--purge` to delete its settings too).
